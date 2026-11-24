@@ -1,6 +1,6 @@
 # cdr-cmr-analyzer-demo
 
-Standby.... Uploading new installer. ... work in progress..
+Download windows Executable file to install the tool and use following license key.
 
 License Key: CQA-WDT2T-R2LJH-KNQT4-GBD7Z
 
